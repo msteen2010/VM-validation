@@ -6,7 +6,7 @@ checking for the status of VMtools
 Written by Mike van der Steen
 Version 1.00
 
-Last updated 27 December 2022
+Last updated 28 June 2023
 """
 
 
